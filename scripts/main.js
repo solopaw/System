@@ -2,7 +2,7 @@ const projects = [
 	{
 		title: "JSON Editor",
 		text: "An advanced tool to simplify creating Minecraft addons. Enables a new addon syntax!",
-		link: "https://github.com/solvedDev/JSON-Editor-App"
+		link: "https://github.com/solowpaw/JSON-Editor-App"
 	},
 	{
 		title: "AnyLanguage",
@@ -12,17 +12,17 @@ const projects = [
 	{
 		title: "VS Code Suggestions",
 		text: "Auto-completions for addons in Visual Studio Code.",
-		link: "https://github.com/solvedDev/VSCode-Minecraft-Suggestions"
+		link: "https://github.com/solowpaw/VSCode-Minecraft-Suggestions"
 	},
 	{
 		title: "Chain-Crafting",
 		text: "A custom crafting engine for Minecraft Bedrock based on the <em>minecraft:interact</em> component.",
-		link: "https://github.com/solvedDev/Chain-Crafting"
+		link: "https://github.com/solowpaw/Chain-Crafting"
 	},
 	{
 		title: "Item-Generator",
 		text: "Custom item behavior made easy. On every entity.",
-		link: "https://github.com/solvedDev/Item-Generator"
+		link: "https://github.com/solowpaw/Item-Generator"
 	},
 	{
 		title: "MCBE Documentation",
@@ -34,7 +34,12 @@ const projects = [
 		key: "server-uis",
 		title: "Server UIs",
 		text: "About how you can create an immersive, new UI for NPCs with only a behavior pack."
-	}
+	},
+	{
+		title: "Others",
+		text: "Other Stuff",
+		link: "https://github.com/solowpaw/Others"
+	},
 ];
 const local_articles = {
 	"server-uis": "https://solveddev.github.io/local_articles/server-uis"
